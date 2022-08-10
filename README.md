@@ -1,6 +1,10 @@
 # MNK_Group_Task1
 by Robert Nowak
 
+MNK_Group_Task1_QUERIES.txt contains complete script of the database<br>
+MNK_Group_Task1_postgresql contains database with loaded data<br>
+Robert_Nowak_task1.csv is created by query below.
+
 Task 1 query:
 
 COPY (<br>
